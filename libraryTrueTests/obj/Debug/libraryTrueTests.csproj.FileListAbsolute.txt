@@ -1,0 +1,16 @@
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\libraryTrueTests.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\libraryTrueTests.pdb
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\libraryTrue.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\libraryTrue.pdb
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\УП 04\libraryTrue\libraryTrueTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\УП 04\libraryTrue\libraryTrueTests\obj\Debug\libraryTrueTests.csprojAssemblyReference.cache
+F:\УП 04\libraryTrue\libraryTrueTests\obj\Debug\libraryTrueTests.csproj.CoreCompileInputs.cache
+F:\УП 04\libraryTrue\libraryTrueTests\obj\Debug\libraryTrueTests.csproj.CopyComplete
+F:\УП 04\libraryTrue\libraryTrueTests\obj\Debug\libraryTrueTests.dll
+F:\УП 04\libraryTrue\libraryTrueTests\obj\Debug\libraryTrueTests.pdb

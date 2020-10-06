@@ -1,0 +1,6 @@
+F:\УП 04\libraryTrue\libraryTrue\bin\Debug\libraryTrue.dll
+F:\УП 04\libraryTrue\libraryTrue\bin\Debug\libraryTrue.pdb
+F:\УП 04\libraryTrue\libraryTrue\obj\Debug\libraryTrue.csprojAssemblyReference.cache
+F:\УП 04\libraryTrue\libraryTrue\obj\Debug\libraryTrue.csproj.CoreCompileInputs.cache
+F:\УП 04\libraryTrue\libraryTrue\obj\Debug\libraryTrue.dll
+F:\УП 04\libraryTrue\libraryTrue\obj\Debug\libraryTrue.pdb
